@@ -1,5 +1,5 @@
 # Primer-Reto
-Una serie de Ejercicios adecuados al 1er capitulo del Libro de Eloquent JavaScript
+El primer reto est+a compuesto por una serie de Ejercicios adecuados al 1er capitulo del Libro de Eloquent JavaScript
 
 
 ## Ejercicio A
