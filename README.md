@@ -8,3 +8,15 @@ Puede probar la función con los valores de n=8, n=5, n=2, n=1, n=0. La precondi
 
 Trazabilidad: Serie de procedimientos que permiten seguir el proceso de evolución de un producto en cada una de sus etapas.
 
+## Ejercicio B
+Escribir un algoritmo que dado un número determine su factorial.
+
+El factorial de un número es el producto de dicho número por todos los anteriores menores que él hasta llegar al cero. Por definición el factorial del número 0 es 1.
+
+## Ejercicio C
+Escriba un algoritmo que determine si un número entero positivo es un palíndromo, es decir, si se lee de la misma forma desde la izquierda y desde la derecha. Ejemplo de palíndromo: 1771.
+
+## Ejercicio D
+Escriba un algoritmo que determine si un numero es primo 
+
+>En matemáticas, un número primo es un número natural mayor que 1 que tiene únicamente dos divisores positivos distintos: él mismo y el 1
