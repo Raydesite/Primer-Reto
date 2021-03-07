@@ -20,3 +20,6 @@ Escriba un algoritmo que determine si un número entero positivo es un palíndro
 Escriba un algoritmo que determine si un numero es primo 
 
 >En matemáticas, un número primo es un número natural mayor que 1 que tiene únicamente dos divisores positivos distintos: él mismo y el 1
+
+## Ejercicio E
+Escriba un algoritmo que permita determinar cuantos días tarda un caracol en subir la pared, suponiendo que la pared mide una logitud de K, el caracol durante el día sube Q (entrada por teclado) y cuando está dormido baja Z(entrada por teclado)
