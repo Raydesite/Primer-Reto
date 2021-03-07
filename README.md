@@ -6,12 +6,12 @@ Una serie de Ejercicios adecuados al 1er capitulo del Libro de Eloquent JavaScri
 Indique cuál es la semántica (es decir qué hace) de la siguiente función.
 Puede probar la función con los valores de n=8, n=5, n=2, n=1, n=0. La precondición es que n debe ser entero y positivo (debe dejar trazabilidad). 
 
-Trazabilidad: Serie de procedimientos que permiten seguir el proceso de evolución de un producto en cada una de sus etapas.
+>Trazabilidad: Serie de procedimientos que permiten seguir el proceso de evolución de un producto en cada una de sus etapas.
 
 ## Ejercicio B
 Escribir un algoritmo que dado un número determine su factorial.
 
-El factorial de un número es el producto de dicho número por todos los anteriores menores que él hasta llegar al cero. Por definición el factorial del número 0 es 1.
+>El factorial de un número es el producto de dicho número por todos los anteriores menores que él hasta llegar al cero. Por definición el factorial del número 0 es 1.
 
 ## Ejercicio C
 Escriba un algoritmo que determine si un número entero positivo es un palíndromo, es decir, si se lee de la misma forma desde la izquierda y desde la derecha. Ejemplo de palíndromo: 1771.
