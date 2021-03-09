@@ -1,5 +1,7 @@
-https://img.shields.io/twitter/follow/raydesite?label=Follow&style=social https://img.shields.io/github/stars/raydesite?style=social
-_
+https://img.shields.io/twitter/follow/raydesite?label=Follow&style=social 
+https://img.shields.io/github/stars/raydesite?style=social
+
+#
 # Primer-Reto
 El primer reto est+a compuesto por una serie de Ejercicios adecuados al 1er capitulo del Libro de Eloquent JavaScript
 
