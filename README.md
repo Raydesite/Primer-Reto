@@ -1,4 +1,4 @@
-<p align="center"><a href="https://raydesite.com" rel="noopener noreferrer"><img width="100" src="https://twitter.com/Raydesite/photo" alt="Vue logo"></a></p>
+<p align="center"><a href="https://raydesite.com" rel="noopener noreferrer"><img width="100" src="https://twitter.com/Raydesite/photo" alt="RaydesiteLogo"></a></p>
 
 <p align="center">
 <a href="https://twitter.com/Raydesite"><img src="https://img.shields.io/twitter/follow/raydesite?label=Follow&style=social"></a>
