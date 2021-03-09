@@ -1,5 +1,6 @@
 <a href="https://twitter.com/Raydesite"><img src="https://img.shields.io/twitter/follow/raydesite?label=Follow&style=social"></a>
 <a href="https://github.com/Raydesite/Primer-Reto/stargazers"><img src="https://img.shields.io/github/stars/raydesite?style=social"></a>
+<a href="https://github.com/Raydesite/Primer-Reto/network/members"><img src="https://img.shields.io/github/forks/raydesite/Primer-Reto?style=social"></a>
 
 #
 # Primer-Reto
