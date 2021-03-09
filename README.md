@@ -1,4 +1,4 @@
-<p align="center"><a href="https://raydesite.com" rel="noopener noreferrer"><img width="100" src="https://twitter.com/Raydesite/photo" alt="RaydesiteLogo"></a></p>
+<p align="center"><a href="https://raydesite.com" rel="noopener noreferrer"><img width="100" src="https://raydesite.com/wp-content/uploads/2020/10/cropped-Logo-header.txt.png" alt="RaydesiteLogo"></a></p>
 
 <p align="center">
 <a href="https://twitter.com/Raydesite"><img src="https://img.shields.io/twitter/follow/raydesite?label=Follow&style=social"></a>
