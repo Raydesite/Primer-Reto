@@ -9,7 +9,7 @@
 
 # Reto #1
 
-Según el siguiente código, que valor tendrá numero_1 al final del script?
+Según el siguiente código, ¿Qué valor tendrá numero_1 al final del script?
 
 ~~~
 const numero_1 = 2;
@@ -25,7 +25,7 @@ console.log(numero_1);
 ~~~
 
 # Reto #2
-Según el código del Reto #1, Qué valor tendra numero_4 al final del script?
+Según el código del Reto #1, ¿Qué valor tendra numero_4 al final del script?
 
 ~~~
 const numero_1 = 2;
