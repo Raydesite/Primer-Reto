@@ -7,28 +7,45 @@
 </p></br>
 ---
 
-# Primer-Reto
-El primer reto est+a compuesto por una serie de Ejercicios adecuados al 1er capitulo del Libro de Eloquent JavaScript
+#Reto #1
+
+Según el siguiente código, que valor tendrá numero_1 al final del script?
+
+const numero_1 = 2;
+
+if (numero_1 == 8) {
+	let numero_4 = 5;
+	numero_1 = 3;
+}
+
+let numero_4 = 7;
+
+console.log(numero_1);
 
 
-## Ejercicio A
-Indique cuál es la semántica (es decir qué hace) de la siguiente función.
-Puede probar la función con los valores de n=8, n=5, n=2, n=1, n=0. La precondición es que n debe ser entero y positivo (debe dejar trazabilidad). 
+#Reto #2
+Según el código del Reto #1, que valor tendra numero_4 al final del script?
 
->Trazabilidad: Serie de procedimientos que permiten seguir el proceso de evolución de un producto en cada una de sus etapas.
+const numero_1 = 2;
 
-## Ejercicio B
-Escribir un algoritmo que dado un número determine su factorial.
+if (numero_1 == 6) {
+	let numero_4 = 5;
+	numero_1 = 3;
+}
 
->El factorial de un número es el producto de dicho número por todos los anteriores menores que él hasta llegar al cero. Por definición el factorial del número 0 es 1.
+let numero_4 = 7;
 
-## Ejercicio C
-Escriba un algoritmo que determine si un número entero positivo es un palíndromo, es decir, si se lee de la misma forma desde la izquierda y desde la derecha. Ejemplo de palíndromo: 1771.
+console.log(numero_4);
 
-## Ejercicio D
-Escriba un algoritmo que determine si un numero es primo 
+#Reto #3
+El siguiente código no funciona, indicar por qué y cómo resolverlo. Si puede simplificarlo, enviar respuesta simplificada.
 
->En matemáticas, un número primo es un número natural mayor que 1 que tiene únicamente dos divisores positivos distintos: él mismo y el 1
+const url_base = ‘https://api.prueba.com’;
+const key = ‘uahgysgkjhdsyt’;
+const user_key = ‘user_prueba’;
 
-## Ejercicio E
-Escriba un algoritmo que permita determinar cuantos días tarda un caracol en subir la pared, suponiendo que la pared mide una logitud de K, el caracol durante el día sube Q (entrada por teclado) y cuando está dormido baja Z(entrada por teclado)
+if (key == 22){
+	let value = 22;
+	console.log(‘Usuario: ’ + user_key + ‘- Llave: ‘ + key);
+	console.log(‘Valor = ’ + value);
+
