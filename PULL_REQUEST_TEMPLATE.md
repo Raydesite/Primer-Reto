@@ -18,6 +18,6 @@ Agrega un screenshot de tu resultado o resultados (si son varios ejercicios agre
 
 # Preguntas (opcional)
 
-- ¿Qúe aprendiste resolviendo el reto?
+- ¿Qué aprendiste resolviendo el reto?
 
 - ¿Qué te gustaría reforzar?
