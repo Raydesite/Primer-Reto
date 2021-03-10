@@ -1,13 +1,16 @@
-<p align="center"><a href="https://raydesite.com" rel="noopener noreferrer"><img width="190" src="https://raydesite.com/wp-content/uploads/2020/10/cropped-Logo-header.txt.png" alt="RaydesiteLogo"></a></p>
+# Reto 1
+
+<p align="center">
+	<a href="https://raydesite.com" rel="noopener noreferrer"><img width="190" src="https://i.imgur.com/BJk6ckw.png" alt="RaydesiteLogo"></a></p>
 
 <p align="center">
 <a href="https://twitter.com/Raydesite"><img src="https://img.shields.io/twitter/follow/raydesite?label=Follow&style=social"></a>
 <a href="https://github.com/Raydesite/Primer-Reto/stargazers"><img src="https://img.shields.io/github/stars/raydesite?style=social"></a>
 <a href="https://github.com/Raydesite/Primer-Reto/network/members"><img src="https://img.shields.io/github/forks/raydesite/Primer-Reto?style=social"></a>
 </p></br>
----
 
-# Ejercicio #1
+
+# Ejercicio 1
 
 Según el siguiente código, ¿Qué valor tendrá numero_1 al final del script?
 
@@ -24,7 +27,8 @@ let numero_4 = 7;
 console.log(numero_1);
 ```
 
-# Ejercicio #2
+# Ejercicio 2
+
 Según el código del Reto #1, ¿Qué valor tendra numero_4 al final del script?
 
 ```js
@@ -40,7 +44,9 @@ let numero_4 = 7;
 console.log(numero_4);
 ```
 
-# Ejercicio #3
+
+# Ejercicio 3
+
 El siguiente código no funciona, indicar por qué y cómo resolverlo. Si puede simplificarlo, enviar respuesta simplificada.
 
 ```js
@@ -56,7 +62,7 @@ if (key == 22){
 	value = value + 1;
 	console.log(‘Valor = ’ + value);
 
-value = value - 1;
+  value = value - 1;
 	console.log(‘Valor = ’ + value);
 
 }
