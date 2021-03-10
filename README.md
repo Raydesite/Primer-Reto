@@ -6,9 +6,8 @@
 <a href="https://github.com/Raydesite/Primer-Reto/stargazers"><img src="https://img.shields.io/github/stars/raydesite?style=social"></a>
 <a href="https://github.com/Raydesite/Primer-Reto/network/members"><img src="https://img.shields.io/github/forks/raydesite/Primer-Reto?style=social"></a>
 </p></br>
----
 
-# Reto #1
+# Reto 1
 
 Según el siguiente código, ¿Qué valor tendrá numero_1 al final del script?
 
@@ -25,7 +24,7 @@ let numero_4 = 7;
 console.log(numero_1);
 ```
 
-# Reto #2
+# Reto 2
 Según el código del Reto #1, ¿Qué valor tendra numero_4 al final del script?
 
 ```js
@@ -41,7 +40,7 @@ let numero_4 = 7;
 console.log(numero_4);
 ```
 
-# Reto #3
+# Reto 3
 El siguiente código no funciona, indicar por qué y cómo resolverlo. Si puede simplificarlo, enviar respuesta simplificada.
 
 ```js
