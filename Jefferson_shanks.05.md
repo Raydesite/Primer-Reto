@@ -1,6 +1,6 @@
 # Information
 
-- Nombre: Jefferson
+- Nombre: Jefferson V
 - Usuario Discord: @shanks.05
 
 # Solución
