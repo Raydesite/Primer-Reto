@@ -42,6 +42,7 @@ if (numero_1 == 6) {
 let numero_4 = 7;
 
 console.log(numero_4);
+
 ```
 
 
