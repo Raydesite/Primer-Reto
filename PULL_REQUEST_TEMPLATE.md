@@ -2,6 +2,7 @@
 
 - Nombre: <YOUR_NAME_HERE>
 - Usuario Discord: <YOUR_DISCORD_USERNAME>
+- Grupo de Lectura: <READING_GROUP_NUMBER>
 
 # Solución
 
