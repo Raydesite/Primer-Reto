@@ -9,4 +9,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           pullRequestOpened: >
             👋 @{{ author }}
-            Hola gracias por mandar tu pull request, muy pronto revisaremos tus soluciones :zap: 
+            Hola gracias por mandar tu pull request, muy pronto revisaremos tus soluciones ⚡
