@@ -88,26 +88,26 @@ Propongo 2 opciones de simplificación:
 # Screenshot
 
 #### Resultado Ejercicio 1
-![Resultado Ejercicio 1](Reto1-Ejercicio1.png)
+![Resultado Ejercicio 1](/images/Reto1-Ejercicio1.png)
 
 #### Resultado Ejercicio 2
-![Resultado Ejercicio 2](Reto1-Ejercicio2.png)
+![Resultado Ejercicio 2](/images/Reto1-Ejercicio2.png)
 
 #### Resultado Ejercicio 3
 
 **Antes de corrección:**
 
-![Resultado Ejercicio 3](Reto1-Ejercicio3.png)
+![Resultado Ejercicio 3](/images/Reto1-Ejercicio3.png)
 
 
 **Simplificación 1:**
 
-![Simplificación 1 Ejercicio 3](Reto1-Ejercicio3-corregido.png)
+![Simplificación 1 Ejercicio 3](/images/Reto1-Ejercicio3-corregido.png)
 
 
 **Simplificación 2:**
 
-![Simplificación 2 Ejercicio 3](Reto1-Ejercicio3-corregido2.png)
+![Simplificación 2 Ejercicio 3](/images/Reto1-Ejercicio3-corregido2.png)
 
 
 # Preguntas (opcional)
