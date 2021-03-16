@@ -50,5 +50,7 @@ Agrega un screenshot de tu resultado o resultados (si son varios ejercicios agre
 # Preguntas (opcional)
 
 - ¿Qué aprendiste resolviendo el reto?
+  Practiqué todo lo referente al scope.
 
 - ¿Qué te gustaría reforzar?
+Me gustaría reforzar el `type coercion`
