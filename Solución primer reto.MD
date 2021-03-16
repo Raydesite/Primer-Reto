@@ -53,4 +53,4 @@ Agrega un screenshot de tu resultado o resultados (si son varios ejercicios agre
   Practiqué todo lo referente al scope.
 
 - ¿Qué te gustaría reforzar?
-Me gustaría reforzar el `type coercion`
+Me gustaría reforzar la cohersión de tipos
