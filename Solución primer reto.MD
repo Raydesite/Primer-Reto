@@ -27,7 +27,7 @@ const key = 'uahgysgkjhdsyt';
 const user_key = 'user_prueba';
 let value = 22;
 
-if (value == 22){
+if (value === 22){
 	console.log('Usuario: ' + user_key + ' - Llave: ' + key);
 	console.log('Valor = ' + value);
 
