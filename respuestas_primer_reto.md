@@ -2,7 +2,7 @@
 
 - Nombre: **Emmanuel Lucio Urbina**
 - Usuario Discord: **emmanuelluur**
-
+- Grupo de Lectura: **Lectura-11**
 # Solución
 
 Una descripción clara y concisa sobre la solución al reto.
