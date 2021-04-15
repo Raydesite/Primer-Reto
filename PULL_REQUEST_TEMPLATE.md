@@ -1,24 +1,24 @@
 # Information
 
-- Nombre: <YOUR_NAME_HERE>
-- Usuario Discord: <YOUR_DISCORD_USERNAME>
-- Grupo de Lectura: <READING_GROUP_NUMBER>
+- Nombre: *David Caldera*
+- Usuario Discord: *@dacehell*
+- Grupo de Lectura: *lectura_2*
 
 # Solución
 
-Una descripción clara y concisa sobre la solución al reto.
-Si el reto consta de varios ejercicios agrega cada solución por separado por ejemplo:
+1. **Ejercicio 1:** Solución 2
 
-1. Ejercicio A: Solución
+2. **Ejercicio 2:** Solución 7
 
-2. Ejercicio B: Solución
-
+3. **Ejercicio 3:** La variable `value` estaba declarada dentro del scope del condicional, coloque afuera y solucionado.
 # Screenshot
 
-Agrega un screenshot de tu resultado o resultados (si son varios ejercicios agrega un título a cada screenshot).
+![code1](https://user-images.githubusercontent.com/46831869/111044683-cd214500-8428-11eb-885d-3f6e5ffc9509.png)
+
 
 # Preguntas (opcional)
 
 - ¿Qué aprendiste resolviendo el reto?
 
 - ¿Qué te gustaría reforzar?
+Ejercicios de logica.
